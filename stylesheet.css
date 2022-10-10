@@ -1,1 +1,24 @@
-"Hello World" 
+#divHeaders1 {
+    font-family: cursive;
+    color: rgb(53, 51, 51);
+}
+
+#divHeaders2 {
+    font-family: cursive;
+    color: rgb(53, 51, 51);
+}
+
+.atag {
+    color: black;
+    margin: 1%;
+}
+
+.fontLi {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: .5%;
+}
+
+
+a:hover {
+    color: red;
+}
